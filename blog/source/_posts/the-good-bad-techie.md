@@ -13,7 +13,7 @@ categories:
 cover: https://i.imgur.com/6T70Vsa.jpg
 feature: true
 ---
-# Deployment Platforms: The Good, The Bad, and the Techie
+# Deployment Platforms: The GGood, The Bad, and the Techie
 
 Hey there, fellow tech enthusiasts! Today, we're diving deep into the world of deployment platforms. We've got four heavy hitters in our lineup: Vercel.app, Netlify, Digital Ocean, and Heroku. Let's break them down, weigh their pros and cons, and figure out which one could be the champion of your deployment needs.
 
