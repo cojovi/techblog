@@ -3,7 +3,7 @@ title: Generative AI Unlocking Customer Intent
 date: 2024-01-29 11:30:00
 tags: ai
 catagories: tech
-feature: true
+feature: false
 cover: https://i.imgur.com/PgV21ll.jpg
 ---
 # Generative AI: Unlocking Customer Intent for Enhanced Business Outcomes
