@@ -105,7 +105,7 @@ socials:
 site_meta:
   cdn: cn
   favicon: https://i.imgur.com/To9I7ks.png
-  description: 'TechDoneCheap'
+  description: 'Explore the latest in technology, software development, coding tutorials, and unique DIY projects. Tech Done Cheap offers in-depth reviews, expert insights, and hands-on guides for tech enthusiasts and DIYers.'
   keywords: 'Tech, Electronics, DIY, coding, AI'
   author: 'TechDoneCheap'
 
@@ -143,8 +143,8 @@ gitalk:
 # see https://valine.js.org/quickstart.html
 valine:
   enable: false
-  app_id:
-  app_key:
+  app_id: 
+  app_key: 
   avatar: ''
   placeholder: Leave your thoughts behind~
   visitor: true
@@ -186,7 +186,7 @@ busuanzi:
 
 copy_protection:
   enable: true
-  author:
+  author: TechPredator
     cn: 作者
     en: Author
   link:
