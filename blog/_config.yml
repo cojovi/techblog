@@ -86,6 +86,20 @@ seo:
   # forked from yoast seo
   sitemap: true
   
+  feed:
+    enable: true
+    type: rss2
+    path: rss2.xml
+    limit: 20
+    hub:
+    content:
+    content_limit: 140
+    content_limit_delim: ' '
+    order_by: -date
+    icon: icon.png
+    autodiscovery: true
+    template:
+    
 #deploy:
 #  type: git
 #  repo: https://github.com/cojovi/cojovi.github.io.git
@@ -189,3 +203,4 @@ theme: aurora
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+  
