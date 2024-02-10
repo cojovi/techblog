@@ -187,8 +187,8 @@ busuanzi:
 copy_protection:
   enable: true
   author: TechPredator
-    cn: 作者
-    en: Author
+    cn: 
+    en: TechPredator
   link:
     cn: 本文来自于
     en: Article is from
