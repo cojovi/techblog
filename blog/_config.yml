@@ -88,8 +88,12 @@ seo:
   
   feed:
     enable: true
-    type: rss2
-    path: rss2.xml
+    type:
+      - atom
+      - rss2
+    path:
+      - atom.xml
+      - rss2.xml
     limit: 20
     hub:
     content:
