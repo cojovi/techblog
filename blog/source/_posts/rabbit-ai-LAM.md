@@ -62,6 +62,9 @@ our interactions with technology are more natural and intuitive. Its innovative 
 with a user-friendly design, make it a device that’s not only functional but also enjoyable to use. 
 This gadget is definitely something to keep an eye on as it hops its way into the market!
 
+### Want the unhinged commentary version?
+For the unhinged commentary version, I wrote this take over on Protocol Sentinel → [Rabbit R1: Hype, Reality, and the Privacy Hangover](https://protocolsentinel.com/post/rabbit-r1-privacy-hangover)
+
 ---
 
 **Sources:**
